@@ -10,5 +10,8 @@
   "license": "ISC",
   "repository": {
     "url": "https://github.com/iproman/e-imzo"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41"
   }
 }
